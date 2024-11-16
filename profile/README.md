@@ -59,12 +59,15 @@ Eastern Developers utilizes cutting-edge tools and technologies to deliver robus
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
+
+As an organization, our stats reflect the collaboration and contributions of all our members. Explore our repositories to see the latest activity!
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eastern-Developers&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastern-Developers&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eastern-Developers&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eastern-Developers&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eastern-Developers&theme=tokyonight" alt="Most Commit Languages" />
 </div>
+
 
 ---
 
