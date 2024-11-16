@@ -23,19 +23,22 @@ We are a group of passionate developers, engineers, and enthusiasts working toge
 
 ---
 
-## 📂 **Key Projects**
+## 📂 Key Projects
+
+Here are some of the notable projects from the Eastern Developers organization:
 
 <div align="center">
-  <a href="https://github.com/Eastern-Developers/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eastern-Developers&repo=Project1&theme=tokyonight" alt="Project 1" />
+  <a href="https://github.com/Eastern-Developers/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eastern-Developers&repo=REPO_NAME_1&theme=tokyonight" alt="Project 1" />
   </a>
-  <a href="https://github.com/Eastern-Developers/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eastern-Developers&repo=Project2&theme=tokyonight" alt="Project 2" />
+  <a href="https://github.com/Eastern-Developers/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eastern-Developers&repo=REPO_NAME_2&theme=tokyonight" alt="Project 2" />
   </a>
-  <a href="https://github.com/Eastern-Developers/Project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eastern-Developers&repo=Project3&theme=tokyonight" alt="Project 3" />
+  <a href="https://github.com/Eastern-Developers/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eastern-Developers&repo=REPO_NAME_3&theme=tokyonight" alt="Project 3" />
   </a>
 </div>
+
 
 ---
 
